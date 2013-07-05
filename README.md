@@ -18,6 +18,12 @@
 
 每个章节里的代码，都建议读者手写一遍，在不断调试和修改编辑的过程中，加以实战练习，不断磨合出适合自己的代码设计和代码组织方式。
 
+如果你简短的浏览一下下方的目录，就可以看书这个repo所关注的并非代码本身，如果你已经对前端MVC框架和前端本身的相关技术有所了解，不打算浏览关于背景介绍的章节，我建议你可以直接跳到『Angular 最佳实践』章节进行阅读，这些章节会结合一些真正实用的案例进行编码，解释，调试和测试。即便如此，我还是建议你阅读相关背景章节，正因本repo所面向的目的不仅仅是学会如何使用 Angular 编码并从中获利，更是站在前端发展的角度来解释为什么 Angular 能够站在今天的高位，什么样的设计方式才是普适的最优方式等等...
+
+### 关于 『Angular 最佳实践』
+
+本repo由支付宝前端开发工程师@莫登（新浪微博@郭宇）维护，部分案例包括Angular在支付宝某些系统上的使用经验，欢迎 fork && pull requset，本身水平有限，案例中难免出现错漏，望请各位指正。
+
 ### 目录
 
 - [为什么会有前端框架 ?](https://github.com/turingou/Angular-Best-Practices/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6.md) 
@@ -35,8 +41,6 @@
 - [Angular 最佳实践：模板与DOM操作](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%A8%A1%E6%9D%BF%E4%B8%8EDOM%E6%93%8D%E4%BD%9C.md)
 
 - [Angular 最佳实践：代码流](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E6%B5%81.md)
-
-
 
 
 
