@@ -18,37 +18,23 @@
 
 每个章节里的代码，都建议读者手写一遍，在不断调试和修改编辑的过程中，加以实战练习，不断磨合出适合自己的代码设计和代码组织方式。
 
-#### ![为什么会有前端框架](https://github.com/turingou/Angular-Best-Practices/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6.md) ?
+#### 目录
 
-#### 前端的世界与梦
+- [为什么会有前端框架 ?](https://github.com/turingou/Angular-Best-Practices/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6.md) 
 
-一切都推到前端来了，这不是一句空话。
+- [前端的世界与梦](https://github.com/turingou/Angular-Best-Practices/blob/master/%E5%89%8D%E7%AB%AF%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E6%A2%A6.md)
 
-无论是PC，平板电脑，智能手机，都安装了性能极强的浏览器。在这些终端上构建应用，原本是一件非常复杂的事情，在android平台，你需要使用java，在iOS平台，你需要使用objC，在windows phone平台，你需要使用c#，这些语言的阻碍，让一部分人开始思考如何像构建跨系统app一样构建跨终端app，达成一个大一统的世界。
+- [Angular 与其他框架的异同](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%20%E4%B8%8E%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%82%E5%90%8C.md)
 
-Web App 似乎又为这种畅想提供了实战工具：有没有一种方法，可以基于浏览器或者浏览器内核，或者干脆基于脚本语言，进行统一的编码，测试，编译之后打包成各种平台的app呢？当然有。使用js或其他脚本语言，使用html/css编写用户界面和交互逻辑，然后再打包成一个又一个看起来根本不像运行在浏览器中的app，这已经是当前许多移动开发者在生产环境使用的框架了。
+- [Angular最佳实践：理解和书写第一个 Angular App](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%90%86%E8%A7%A3%E5%92%8C%E4%B9%A6%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AA%20Angular%20App.md)
 
-有了这个基础，我们可以发现，javascript 几乎可以完成所有和用户界面交互的工作了：无论是传统网站的客户端（甚至服务器端），桌面App，移动App，一旦你开始实践这种梦想中的开发方式，一个又一个头疼的问题就会接踵而来，你的代码没有好的IDE环境，你无法像在浏览器中一样方便的debug，你沉浸在繁琐的业务逻辑中构建出难以维护和拓展的js应用，这一切不仅因为你的app复杂和巨大，更是因为javascript天生的缺陷：自由。
+- [Angular最佳实践：代码组织与模块化](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E7%BB%84%E7%BB%87%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96.md)
 
-『自由是幸福的天敌』这句话出自于『美丽新世界』。因为选择太多而无法选择，因为语法约束太少而无法写出可维护的应用，因为繁琐的dom操作而制作出耦合度极高难以拓展的应用程序，这些不符合『最佳实践』的编码方式都可以通过某种约束得以避免。一些人意识到脚本语言已不在是凌乱的、描述性的『脚本语言』，而应该成为真正的『编程语言』，洪荒的时代迎来了崭新的黎明，开创框架的人星火燎原，大厦由无变有，平地高楼般拔地而起。
+- [Angular最佳实践：数据交互](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%BA%A4%E4%BA%92.md)
 
-为什么会有前端MVC框架，就如同为什么会有光一样自然了。
+- [Angular最佳实践：模板与DOM操作](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%A8%A1%E6%9D%BF%E4%B8%8EDOM%E6%93%8D%E4%BD%9C.md)
 
-#### Angular 与其他框架的异同
-
-我们描述一件事情的时候，通常并不在意他是如何实现的，而在于我们如何通过这件事情，这个事物，带来我们想要的效果，想传达的价值。backbone，emberjs，angular，以及todomvc中的几十个前端MVC（MVVM）框架你并不需要全部熟知他们的运作原理，就可以熟如穿衣吃饭一样使用他们。这是大部分程序员的核心价值：使用更好的技术，更快的完成更健壮的应用程序。
-
-Angular 就是基于这个目的设计（待续）
-
-#### Angular最佳实践：理解和书写第一个 Angular App
-
-#### Angular最佳实践：代码组织与模块化
-
-#### Angular最佳实践：数据交互
-
-#### Angular最佳实践：模板与DOM操作
-
-#### Angular最佳实践：代码流
+- [Angular最佳实践：代码流](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E6%B5%81.md)
 
 
 
