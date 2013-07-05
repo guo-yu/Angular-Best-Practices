@@ -1,4 +1,4 @@
-![AngularJS](http://angularjs.org/img/AngularJS-large.png)
+![AngularJS](ht1tp://angularjs.org/img/AngularJS-large.png)
 =========
 
 ## Angular Best Practices
