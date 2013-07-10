@@ -1,7 +1,5 @@
-![AngularJS](ht1tp://angularjs.org/img/AngularJS-large.png)
+![AngularJS](http://angularjs.org/img/AngularJS-large.png)
 =========
-
-## Angular Best Practices
 
 ### 寻求 Angular 最佳实践
 
@@ -17,7 +15,7 @@
 
 ### 如何阅读『Angular 最佳实践』
 
-在这个repo中，你可以看到不同章节的内容分文件保存，所有用到的代码和demo，都在 `demo` 文件夹中，`lib` 文件夹中，是抽象出的帮助文件与库文件。
+在这个repo中，你可以看到不同章节的内容分文件保存，所有用到的代码和demo，都在 `app` 文件夹中，`lib` 文件夹中，是抽象出的帮助文件与库文件。
 
 每个章节里的代码，都建议读者手写一遍，在不断调试和修改编辑的过程中，加以实战练习，不断磨合出适合自己的代码设计和代码组织方式。
 
