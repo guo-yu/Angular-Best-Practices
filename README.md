@@ -27,21 +27,21 @@
 
 ### 目录
 
-- [为什么会有前端框架 ?](https://github.com/turingou/Angular-Best-Practices/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6.md) 
+- [为什么会有前端框架 ?](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6.md) 
 
-- [前端的世界与梦](https://github.com/turingou/Angular-Best-Practices/blob/master/%E5%89%8D%E7%AB%AF%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E6%A2%A6.md)
+- [前端的世界与梦](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/%E5%89%8D%E7%AB%AF%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E6%A2%A6.md)
 
-- [Angular 与其他框架的异同](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%20%E4%B8%8E%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%82%E5%90%8C.md)
+- [Angular 与其他框架的异同](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%20%E4%B8%8E%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6%E7%9A%84%E5%BC%82%E5%90%8C.md)
 
-- [Angular 最佳实践：理解和书写第一个 Angular App](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%90%86%E8%A7%A3%E5%92%8C%E4%B9%A6%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AA%20Angular%20App.md)
+- [Angular 最佳实践：理解和书写第一个 Angular App](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E7%90%86%E8%A7%A3%E5%92%8C%E4%B9%A6%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AA%20Angular%20App.md)
 
-- [Angular 最佳实践：代码组织与模块化](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E7%BB%84%E7%BB%87%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96.md)
+- [Angular 最佳实践：代码组织与模块化](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E7%BB%84%E7%BB%87%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96.md)
 
-- [Angular 最佳实践：数据交互](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%BA%A4%E4%BA%92.md)
+- [Angular 最佳实践：数据交互](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%BA%A4%E4%BA%92.md)
 
-- [Angular 最佳实践：模板与DOM操作](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%A8%A1%E6%9D%BF%E4%B8%8EDOM%E6%93%8D%E4%BD%9C.md)
+- [Angular 最佳实践：模板与DOM操作](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%A8%A1%E6%9D%BF%E4%B8%8EDOM%E6%93%8D%E4%BD%9C.md)
 
-- [Angular 最佳实践：代码流](https://github.com/turingou/Angular-Best-Practices/blob/master/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E6%B5%81.md)
+- [Angular 最佳实践：代码流](https://github.com/turingou/Angular-Best-Practices/blob/master/articles/Angular%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E4%BB%A3%E7%A0%81%E6%B5%81.md)
 
 
 
